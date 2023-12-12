@@ -1,0 +1,144 @@
+@media (max-width:554px) {
+    section::before {
+        height: 150px;
+        width: 150px;
+        transform: translate(-100px, -50px);
+    }
+
+    section::after {
+        height: 150px;
+        width: 150px;
+        transform: translate(100px, 50px);
+    }
+
+    /* .container .card {
+
+        height: 175px;
+        width: 275px;
+        font-size: 5px;
+    }
+
+    .container {
+        margin-left: 100px;
+    }
+    .logo h5 {
+        margin-right: 50px;
+        margin-top: 30px;
+        font-size: 13px;
+    }
+    .card-details {
+        position: relative;
+        margin-left: 26px;
+        margin-top: 16px;
+    }
+    .human-name {
+        font-size: 11px;
+    }
+    .card .logo img {
+        width: 40px;
+        height: 26px;
+        margin-left: 20px;
+    }
+
+
+
+    .card.back-content {
+        transform: rotateY(180deg);
+    }
+    .container .back-content {
+        margin-left: 100px;
+    }
+    .black-line p {
+        height: 30px;
+        width: 100%;
+        margin-top: 12px;
+    }
+    .white-line {
+        height: 30px;
+        width: 65%;
+        margin-top: 13px;
+    }
+    .white-number {
+        font-size: 13px;
+        width: 28px;
+        height: 22px;
+        margin-top: 17px;
+        margin-left: -5px;
+        border-radius: 3px;
+    }
+    .last-para p {
+        font-size: 6px;
+        margin-left: 20px;
+        margin-top: 8px;
+    } */
+
+}
+
+@media (min-width:554px) and (max-width:422px) {
+    section::before {
+        height: 150px;
+        width: 150px;
+        transform: translate(-100px, -50px);
+    }
+
+    section::after {
+        height: 150px;
+        width: 150px;
+        transform: translate(100px, 50px);
+    }
+
+    /* .container .card{
+        width: 279px;
+    }
+    */
+    /* .container .card {
+
+        font-size: 5px;
+        height: 175px;
+        width: 275px;
+    }
+
+    .logo h5 {
+        margin-right: 50px;
+        margin-top: 30px;
+        font-size: 13px;
+    } */
+
+    /* .human-name {
+        /* margin-left: 26px;
+        margin-top: 18px;
+        font-weight: 500; */
+        /* font-size: 11px; */
+    
+
+    /* .container .back-content {
+        margin-left: 100px;
+    }
+
+    .black-line p {
+        height: 30px;
+        width: 100%;
+        margin-top: 12px;
+    }
+
+    .white-line {
+        height: 30px;
+        width: 65%;
+        margin-top: 13px;
+    }
+
+    .white-number {
+        font-size: 13px;
+        width: 28px;
+        height: 22px;
+        margin-top: 17px;
+        margin-left: -5px;
+        border-radius: 3px;
+    } */ 
+
+    /* .last-para p {
+        font-size: 6px;
+        margin-left: 20px;
+        margin-top: 8px;
+    } */
+}
